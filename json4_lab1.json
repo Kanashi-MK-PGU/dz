@@ -1,0 +1,13 @@
+{
+	"firstName": "Федор",
+	"LastName": "Илюшин",
+	"address": {
+		"streetAddress": "Центр, 101, кв.666",
+		"city": "Москва",
+		"postalCode": "101101"
+	},
+	"phoneNumber": [
+		"822 345-9875",
+		"815 752-5748"
+	]
+}
